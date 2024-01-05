@@ -1,0 +1,12 @@
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\bin\Debug\Proyecto de estudiantes.exe.config
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\bin\Debug\Proyecto de estudiantes.exe
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\bin\Debug\Proyecto de estudiantes.pdb
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto de estudiantes.csproj.AssemblyReference.cache
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto_de_estudiantes.Form1.resources
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto_de_estudiantes.Properties.Resources.resources
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto de estudiantes.csproj.GenerateResource.cache
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto de estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto de estudiantes.exe
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto de estudiantes.pdb
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto_de_estudiantes.Registro.resources
+C:\Users\wueyl\source\repos\Proyecto de estudiantes\obj\Debug\Proyecto_de_estudiantes.Califiaciones.resources
